@@ -13,7 +13,7 @@ In this notebook, we will be going through the steps involved in creating a reco
 In retail industry, the recommender system, uses the data, to train itself, to identify the items that are frequently bought along with the items that are already picked. This can be used both for *online retail* or in a *physical store*. In physical store, the information provided by this system, can be used to arrange the items on the shelf so that the sales of those frequently bought together items can be increased.
 
 #### Libraries
-The following libraries will be used for this project.
+The following libraries is used in  this project.
 
 **PS**:* If the import fails, please install the appropriate modules using PIP install, before proceeding further.*
 
